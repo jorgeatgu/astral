@@ -1,0 +1,35 @@
+.black {
+  color: var(--black);
+}
+
+.cruise {
+  background-color: var(--cruise);
+}
+
+.cruise2 {
+  background-color: var(--cruise2);
+}
+
+.white {
+  color: var(--white);
+}
+
+.heath {
+  color: var(--heath);
+}
+
+.red9 {
+  color: var(--red9);
+}
+
+.green9 {
+  color: var(--green9);
+}
+
+.azul-pp {
+  color: var(--pp);
+}
+
+.rojo-psoe {
+  color: var(--psoe);
+}

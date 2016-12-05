@@ -1,0 +1,21 @@
+/*
+  Base CSS por Jorge Aznar
+  http://jorgeatgu.com
+  Estructura básica para iniciar cualquier proyecto con postCSS
+*/
+
+@import '_reset';
+@import '_variables';
+@import '_comun';
+@import '_buttons';
+@import '_width';
+@import '_color';
+@import '_display';
+@import '_fonts';
+@import '_margin';
+@import '_textalign';
+@import '_vertical-align';
+@import '_weight';
+@import '_padding';
+@import '_border';
+
