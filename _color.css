@@ -2,8 +2,44 @@
   color: var(--black);
 }
 
-.cruise {
-  background-color: var(--cruise);
+.bgc-celery {
+  background-color: var(--celery);
+}
+
+.luckyPoint {
+  color: var(--luckyPoint);
+}
+
+.transparent {
+  background-color: transparent;
+}
+
+.bgc-mint {
+  background-color: var(--mint);
+}
+
+.night-rider {
+  color: var(--nightRider);
+}
+
+.bgc-french-grey {
+  background-color: var(--frenchGrey);
+}
+
+.bunting {
+  color: var(--bunting);
+}
+
+.grey {
+  background-color: var(--grey);
+}
+
+.resto {
+  background-color: var(--resto);
+}
+
+.bgc-white {
+  background-color: var(--white);
 }
 
 .cruise2 {
@@ -32,4 +68,24 @@
 
 .rojo-psoe {
   color: var(--psoe);
+}
+
+.bgc-pp {
+  background-color: var(--pp);
+}
+
+.bgc-psoe {
+  background-color: var(--psoe);
+}
+
+.bgc-zec {
+  background-color: var(--zec);
+}
+
+.bgc-cs {
+  background-color: var(--ciudadanos);
+}
+
+.bgc-cha {
+  background-color: var(--chunta);
 }

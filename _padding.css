@@ -2,10 +2,46 @@
   padding-bottom: 1rem;
 }
 
+.padding-b2 {
+  padding-bottom: 2rem;
+}
+
+.padding-t1 {
+  padding-top: 1rem;
+}
+
+.padding-r1 {
+  padding-right: 1rem;
+}
+
+.padding-r1-5 {
+  padding-right: 1.5rem;
+}
+
 .padding-1 {
   padding: 1rem;
 }
 
+.padding-1-2 {
+  padding: 1rem 2rem;
+}
+
+.padding-0-5 {
+  padding: .5rem;
+}
+
+.padding-1-0 {
+  padding: 1rem 0;
+}
+
 .padding-2 {
   padding: 2rem;
+}
+
+.padding-2-0 {
+  padding: 2rem 0;
+}
+
+.padding-l-n {
+  padding-left: 0;
 }

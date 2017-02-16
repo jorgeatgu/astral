@@ -1,3 +1,17 @@
+.maw-70 {
+  max-width: 70rem;
+  margin: 0 auto;
+}
+
+.maw-60 {
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
+.w-1-5re {
+  width: 1.5rem;
+}
+
 .w-0 {
   width: 0;
 }
@@ -40,4 +54,8 @@
 
 .w-100 {
   width: 100%;
+}
+
+.w-h-20 {
+  width: 20px;
 }
