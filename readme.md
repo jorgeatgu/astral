@@ -2,9 +2,9 @@
 
 Astral es mi pequeño **fraken-work** basado e inspirado en [bascss](http://basscss.com) y [tachyons](http://tachyons.io).
 
-El motivo es sencillo, quería experimentar como es el construir una web basando la arquitectura CSS en clases únicas. Como lo que veía no me terminaba de convencer construí uno con mi una nomenclatura que me resultará familiar, la cual es muy parecida a emmet.
+El motivo es sencillo, quería experimentar como es el construir una web basando la arquitectura CSS en una propiedad = una clase. Como lo que veía no me terminaba de convencer construí uno con una nomenclatura que me resultará familiar, la cual es muy parecida a emmet.
 
-Faltan muchas cosas, muchísimas cosas. La razón es que Astral se ha ido construyendo a la vez que [Bislai](http://bislai.co), cuando necesitaba alguna propiedad la creaba. Así que Astral posiblemente este en *beta* permanente.
+Faltan muchas cosas, muchísimas cosas. La razón es que Astral se ha ido construyendo a la vez que [Bislai](http://bislai.co), cuando necesitaba alguna propiedad la creaba. Así que Astral posiblemente se mantenga en un estado de *beta* permanente.
 
 Usalo bajo tu propia responsabilidad. Copia, clona, distribuye y destruye como quieras.
 
