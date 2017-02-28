@@ -61,31 +61,3 @@
 .green9 {
   color: var(--green9);
 }
-
-.azul-pp {
-  color: var(--pp);
-}
-
-.rojo-psoe {
-  color: var(--psoe);
-}
-
-.bgc-pp {
-  background-color: var(--pp);
-}
-
-.bgc-psoe {
-  background-color: var(--psoe);
-}
-
-.bgc-zec {
-  background-color: var(--zec);
-}
-
-.bgc-cs {
-  background-color: var(--ciudadanos);
-}
-
-.bgc-cha {
-  background-color: var(--chunta);
-}
