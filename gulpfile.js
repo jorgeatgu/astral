@@ -72,7 +72,7 @@ function errorAlertPost(error) {
 
 /* Lanzando CSSnano para comprimir CSS */
 gulp.task('minify', function() {
-  return gulp.src('./css/styles.css')
+  return gulp.src('./css/astral.css')
     .pipe(nano())
     .pipe(rename('astral.min.css'))
     .pipe(gulp.dest('./css'))
