@@ -1,23 +1,4 @@
 :root {
     --fontSystem: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
     --black: #121;
-    --resto: #968282;
-    --rojo: #6593CD;
-    --grey: #efefef;
-    --greyc: #efefef;
-    --cruise2: #def7f2;
-    --heath: #430e16;
-    --white: #fff;
-    --impureWhite: #c4d1e8;
-    --twitterColor: #00ACEE;
-    --facebookColor: #3B5998;
-    --base: #430e16;
-    --red9: #71585c;
-    --green9: #5d7259;
-    --mint: #0fe1be;
-    --nightRider: #431729;
-    --frenchGrey: #E1DCE3;
-    --bunting: #271764;
-    --celery: #A5CC5F;
-    --luckyPointer: #221E61;
 }
