@@ -1,5 +1,21 @@
-.border-b1 {
-  border-bottom: 1px solid;
+.border-1 {
+  border: 1px solid;
+}
+
+.border-2 {
+  border: 2px solid;
+}
+
+.border-3 {
+  border: 3px solid;
+}
+
+.border-4 {
+  border: 4px solid;
+}
+
+.border-5 {
+  border: 5px solid;
 }
 
 .border-t1 {
@@ -10,70 +26,402 @@
   border-right: 1px solid;
 }
 
-.border-1 {
-  border: 1px solid;
+.border-b1 {
+  border-bottom: 1px solid;
 }
 
-.border1 {
-  border: 1px solid;
+.border-l1 {
+  border-left: 1px solid;
 }
 
-.borderc-black {
-  border-color: var(--black);
+.border-t2 {
+  border-top: 2px solid;
 }
 
-.borderc-greyc {
-  border-color: var(--greyc);
+.border-r2 {
+  border-right: 2px solid;
 }
 
-.borderc-rojo {
-  border-color: var(--rojo);
-}
-
-.borderc-grey {
-  border-color: var(--grey);
-}
-
-.borderc-french-grey {
-  border-color: var(--frenchGrey);
-}
-
-.borderc-mint {
-  border-color: var(--mint);
+.border-b2 {
+  border-bottom: 2px solid;
 }
 
 .border-l2 {
   border-left: 2px solid;
 }
 
-.border-l3 {
-  border-left: 3px solid;
+.border-t3 {
+  border-top: 3px solid;
+}
+
+.border-r3 {
+  border-right: 3px solid;
 }
 
 .border-b3 {
   border-bottom: 3px solid;
 }
 
-.border-t3 {
-  border-top: 3px solid;
+.border-l3 {
+  border-left: 3px solid;
 }
 
-.border-l5 {
-  border-left: 5px solid;
+.border-t4 {
+  border-top: 4px solid;
 }
 
-.border-b5 {
-  border-bottom: 5px solid;
+.border-r4 {
+  border-right: 4px solid;
+}
+
+.border-b4 {
+  border-bottom: 4px solid;
+}
+
+.border-l4 {
+  border-left: 4px solid;
 }
 
 .border-t5 {
   border-top: 5px solid;
 }
 
-.border-b10 {
-  border-bottom: 10px solid;
+.border-r5 {
+  border-right: 5px solid;
 }
 
-.border-t10 {
-  border-top: 10px solid;
+.border-b5 {
+  border-bottom: 5px solid;
 }
+
+.border-l5 {
+  border-left: 5px solid;
+}
+
+.borderc-black {
+  border-color: var(--black);
+}
+
+@media only screen and (min-width: 30em) {
+
+  .border-1--s {
+    border: 1px solid;
+  }
+
+  .border-2--s {
+    border: 2px solid;
+  }
+
+  .border-3--s {
+    border: 3px solid;
+  }
+
+  .border-4--s {
+    border: 4px solid;
+  }
+
+  .border-5--s {
+    border: 5px solid;
+  }
+
+  .border-t1--s {
+    border-top: 1px solid;
+  }
+
+  .border-r1--s {
+    border-right: 1px solid;
+  }
+
+  .border-b1--s {
+    border-bottom: 1px solid;
+  }
+
+  .border-l1--s {
+    border-left: 1px solid;
+  }
+
+  .border-t2--s {
+    border-top: 2px solid;
+  }
+
+  .border-r2--s {
+    border-right: 2px solid;
+  }
+
+  .border-b2--s {
+    border-bottom: 2px solid;
+  }
+
+  .border-l2--s {
+    border-left: 2px solid;
+  }
+
+  .border-t3--s {
+    border-top: 3px solid;
+  }
+
+  .border-r3--s {
+    border-right: 3px solid;
+  }
+
+  .border-b3--s {
+    border-bottom: 3px solid;
+  }
+
+  .border-l3--s {
+    border-left: 3px solid;
+  }
+
+  .border-t4--s {
+    border-top: 4px solid;
+  }
+
+  .border-r4--s {
+    border-right: 4px solid;
+  }
+
+  .border-b4--s {
+    border-bottom: 4px solid;
+  }
+
+  .border-l4--s {
+    border-left: 4px solid;
+  }
+
+  .border-t5--s {
+    border-top: 5px solid;
+  }
+
+  .border-r5--s {
+    border-right: 5px solid;
+  }
+
+  .border-b5--s {
+    border-bottom: 5px solid;
+  }
+
+  .border-l5--s {
+    border-left: 5px solid;
+  }
+
+  .borderc-black--s {
+    border-color: var(--black);
+  }
+}
+
+@media only screen and (min-width: 48em) {
+
+  .border-1--m {
+    border: 1px solid;
+  }
+
+  .border-2--m {
+    border: 2px solid;
+  }
+
+  .border-3--m {
+    border: 3px solid;
+  }
+
+  .border-4--m {
+    border: 4px solid;
+  }
+
+  .border-5--m {
+    border: 5px solid;
+  }
+
+  .border-t1--m {
+    border-top: 1px solid;
+  }
+
+  .border-r1--m {
+    border-right: 1px solid;
+  }
+
+  .border-b1--m {
+    border-bottom: 1px solid;
+  }
+
+  .border-l1--m {
+    border-left: 1px solid;
+  }
+
+  .border-t2--m {
+    border-top: 2px solid;
+  }
+
+  .border-r2--m {
+    border-right: 2px solid;
+  }
+
+  .border-b2--m {
+    border-bottom: 2px solid;
+  }
+
+  .border-l2--m {
+    border-left: 2px solid;
+  }
+
+  .border-t3--m {
+    border-top: 3px solid;
+  }
+
+  .border-r3--m {
+    border-right: 3px solid;
+  }
+
+  .border-b3--m {
+    border-bottom: 3px solid;
+  }
+
+  .border-l3--m {
+    border-left: 3px solid;
+  }
+
+  .border-t4--m {
+    border-top: 4px solid;
+  }
+
+  .border-r4--m {
+    border-right: 4px solid;
+  }
+
+  .border-b4--m {
+    border-bottom: 4px solid;
+  }
+
+  .border-l4--m {
+    border-left: 4px solid;
+  }
+
+  .border-t5--m {
+    border-top: 5px solid;
+  }
+
+  .border-r5--m {
+    border-right: 5px solid;
+  }
+
+  .border-b5--m {
+    border-bottom: 5px solid;
+  }
+
+  .border-l5--m {
+    border-left: 5px solid;
+  }
+
+  .borderc-black--m {
+    border-color: var(--black);
+  }
+
+}
+
+@media only screen and (min-width: 64em) {
+
+  .border-1--l {
+    border: 1px solid;
+  }
+
+  .border-2--l {
+    border: 2px solid;
+  }
+
+  .border-3--l {
+    border: 3px solid;
+  }
+
+  .border-4--l {
+    border: 4px solid;
+  }
+
+  .border-5--l {
+    border: 5px solid;
+  }
+
+  .border-t1--l {
+    border-top: 1px solid;
+  }
+
+  .border-r1--l {
+    border-right: 1px solid;
+  }
+
+  .border-b1--l {
+    border-bottom: 1px solid;
+  }
+
+  .border-l1--l {
+    border-left: 1px solid;
+  }
+
+  .border-t2--l {
+    border-top: 2px solid;
+  }
+
+  .border-r2--l {
+    border-right: 2px solid;
+  }
+
+  .border-b2--l {
+    border-bottom: 2px solid;
+  }
+
+  .border-l2--l {
+    border-left: 2px solid;
+  }
+
+  .border-t3--l {
+    border-top: 3px solid;
+  }
+
+  .border-r3--l {
+    border-right: 3px solid;
+  }
+
+  .border-b3--l {
+    border-bottom: 3px solid;
+  }
+
+  .border-l3--l {
+    border-left: 3px solid;
+  }
+
+  .border-t4--l {
+    border-top: 4px solid;
+  }
+
+  .border-r4--l {
+    border-right: 4px solid;
+  }
+
+  .border-b4--l {
+    border-bottom: 4px solid;
+  }
+
+  .border-l4--l {
+    border-left: 4px solid;
+  }
+
+  .border-t5--l {
+    border-top: 5px solid;
+  }
+
+  .border-r5--l {
+    border-right: 5px solid;
+  }
+
+  .border-b5--l {
+    border-bottom: 5px solid;
+  }
+
+  .border-l5--l {
+    border-left: 5px solid;
+  }
+
+  .borderc-black--l {
+    border-color: var(--black);
+  }
+
+}
+

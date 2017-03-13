@@ -94,31 +94,31 @@
 
 @media only screen and (min-width: 64em) {
 
-  .display-i--l {
+  .display-i--m {
     display: inline;
   }
 
-  .display-ib--l {
+  .display-ib--m {
     display: inline-block;
   }
 
-  .display-t--l {
+  .display-t--m {
     display: table;
   }
 
-  .display-tb--l {
+  .display-tb--m {
     display: table-cell;
   }
 
-  .display-b--l {
+  .display-b--m {
     display: block;
   }
 
-  .display-n--l {
+  .display-n--m {
     display: none;
   }
 
-  .t-layout-fixed--l {
+  .t-layout-fixed--m {
     table-layout: fixed;
   }
 
