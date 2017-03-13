@@ -1,30 +1,47 @@
 {
-  "name": "Astral",
-  "version": "0.1.1",
-  "description": "Franken-work para CSS",
+  "name": "astral",
+  "version": "0.2.0",
+  "description": "Franken-work CSS",
   "main": "gulpfile.js",
-  "repository": {
-    "type": "git"
-  },
-  "keywords": [
-    "CSS",
-    "postcss"
-  ],
-  "author": "Jorge Aznar",
-  "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.18.6",
+    "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
     "gulp-cssnano": "^2.1.2",
     "gulp-newer": "^1.3.0",
-    "gulp-notify": "^2.2.0",
-    "gulp-postcss": "^6.2.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-postcss": "^6.3.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sourcemaps": "^2.4.0",
-    "postcss-custom-properties": "^5.0.1",
+    "gulp-sourcemaps": "^2.4.1",
+    "postcss-custom-properties": "^5.0.2",
     "postcss-custom-selectors": "^3.0.0",
     "postcss-import": "^9.1.0",
     "postcss-nested": "^1.0.0",
     "postcss-reporter": "^3.0.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeatgu/astral.git"
+  },
+  "keywords": [
+    "CSS",
+    "design",
+    "postcss",
+    "responsive"
+  ],
+  "author": "Jorge Aznar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgeatgu/astral/issues"
+  },
+  "homepage": "https://github.com/jorgeatgu/astral#readme",
+  "contributors": [
+    {
+      "name": "Jorge Aznar",
+      "email": "contacto@jorgeatgu.com",
+      "url": "http://jorgeatgu.com"
+    }
+  ]
 }
