@@ -895,8 +895,92 @@ template {
 
 }
 
+/* COLOR COMBOS
+
+A continuación una serie de combos accesibles.
+Todos los combos han sido creados con colorable: http://jxnblk.com/colorable/demos/text/
+Y con helloColor: http://jxnblk.com/hello-color/
+
+La nomenclatura es la siguiente para el color del texto:
+
+textColor-backgroundColor__contrastRatio {
+  color: var(--blackCurrant);
+}
+
+La nomenclatura es la siguiente para el color del background:
+
+backgroundColor-textColor__contrastRatio {
+  bakcground-color: var(--fuelYellow);
+}
+
+Más combos-accesibles: http://jorgeatgu.github.io/color-combos/;
+
+*/
+
+/*Primer combo*/
+
+.blackCurrant-fuelYellow__7_85 {
+  color: #65065A;
+}
+
+.fuelYellow-blackCurrant__7_85 {
+  background-color: #FEC845;
+}
+
+/*Segundo combo*/
+
+.bunting-frenchGray__11_16 {
+  color: #271764;
+}
+
+.frenchGray-bunting__11_16 {
+  background-color: #E1DCE3;
+}
+
+/*Tercer combo*/
+
+.eclipse-springBud__9_27 {
+  color: #642626;
+}
+
+.springBud-eclipse__9_27 {
+  background-color: #E5EDB7;
+}
+
+/*Cuarto combo*/
+
+.nightRider-mint__9 {
+  color: #431729;
+}
+
+.nightRider-mint__9 {
+  background-color: #0fe1be;
+}
+
+/*FIN COMBOS*/
+
 .color-black {
   color: #121;
+}
+
+.bgc-black {
+  background-color: #121;
+}
+
+.color-white {
+  color: #fff;
+}
+
+.bgc-white {
+  background-color: #fff;
+}
+
+.color-grey {
+  color: #ccc;
+}
+
+.bgc-grey {
+  background-color: #ccc;
 }
 
 .display-i {
