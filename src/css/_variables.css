@@ -1,4 +1,14 @@
 :root {
     --fontSystem: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
     --black: #121;
+    --white: #fff;
+    --grey: #ccc;
+    --blackCurrant: #65065A;
+    --fuelYellow: #FEC845;
+    --frenchGray: #E1DCE3;
+    --bunting: #271764;
+    --springBud: #E5EDB7;
+    --eclipse: #642626;
+    --nightRider: #431729;
+    --mint: #0fe1be;
 }
