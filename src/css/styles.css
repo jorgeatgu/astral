@@ -1,13 +1,12 @@
 /*
 
-  Astral 0.2b por Jorge Aznar
+  Astral 0.2.1 por Jorge Aznar
   http://github.com/jorgeatgu/astral
   http://jorgeatgu.com
 
 */
 
 @import '_reset';
-@import '_variables';
 @import '_border-radius';
 @import '_border';
 @import '_color';
@@ -19,7 +18,6 @@
 /*
 Descomenta bajo tu propia responsabilidad
 @import '_grid';
-
 */
 @import '_height';
 @import '_helper';
@@ -32,4 +30,3 @@ Descomenta bajo tu propia responsabilidad
 @import '_vertical-align';
 @import '_weight';
 @import '_width';
-
