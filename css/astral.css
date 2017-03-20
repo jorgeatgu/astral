@@ -1,6 +1,6 @@
 /*
 
-  Astral 0.2b por Jorge Aznar
+  Astral 0.2.1 por Jorge Aznar
   http://github.com/jorgeatgu/astral
   http://jorgeatgu.com
 
@@ -1890,6 +1890,15 @@ Más combos-accesibles: http://jorgeatgu.github.io/color-combos/;
 
 }
 
+.font-system {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.font-monospace,
+code {
+  font-family: 'SFMono-Regular', Consolas, Menlo, Courier, monospace;
+}
+
 .font-0 {
   font-size: 0;
 }
@@ -2050,7 +2059,6 @@ Más combos-accesibles: http://jorgeatgu.github.io/color-combos/;
 /*
 Descomenta bajo tu propia responsabilidad
 @import '_grid';
-
 */
 
 .h-10 {
@@ -4437,6 +4445,5 @@ Descomenta bajo tu propia responsabilidad
 
 
 }
-
 
 /*# sourceMappingURL=styles.css.map */
