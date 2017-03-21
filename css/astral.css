@@ -705,23 +705,23 @@ template {
 }
 
 .border-1 {
-  border: 1px;
+  border-width: 1px;
 }
 
 .border-2 {
-  border: 2px;
+  border-width: 2px;
 }
 
 .border-3 {
-  border: 3px;
+  border-width: 3px;
 }
 
 .border-4 {
-  border: 4px;
+  border-width: 4px;
 }
 
 .border-5 {
-  border: 5px;
+  border-width: 5px;
 }
 
 .border-t1 {
@@ -827,23 +827,23 @@ template {
   }
 
   .border-1--s {
-    border: 1px;
+    border-width: 1px;
   }
 
   .border-2--s {
-    border: 2px;
+    border-width: 2px;
   }
 
   .border-3--s {
-    border: 3px;
+    border-width: 3px;
   }
 
   .border-4--s {
-    border: 4px;
+    border-width: 4px;
   }
 
   .border-5--s {
-    border: 5px;
+    border-width: 5px;
   }
 
   .border-t1--s {
@@ -950,23 +950,23 @@ template {
   }
 
   .border-1--m {
-    border: 1px;
+    border-width: 1px;
   }
 
   .border-2--m {
-    border: 2px;
+    border-width: 2px;
   }
 
   .border-3--m {
-    border: 3px;
+    border-width: 3px;
   }
 
   .border-4--m {
-    border: 4px;
+    border-width: 4px;
   }
 
   .border-5--m {
-    border: 5px;
+    border-width: 5px;
   }
 
   .border-t1--m {
@@ -1074,23 +1074,23 @@ template {
   }
 
   .border-1--l {
-    border: 1px;
+    border-width: 1px;
   }
 
   .border-2--l {
-    border: 2px;
+    border-width: 2px;
   }
 
   .border-3--l {
-    border: 3px;
+    border-width: 3px;
   }
 
   .border-4--l {
-    border: 4px;
+    border-width: 4px;
   }
 
   .border-5--l {
-    border: 5px;
+    border-width: 5px;
   }
 
   .border-t1--l {
