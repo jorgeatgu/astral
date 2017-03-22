@@ -38,44 +38,44 @@ Más combos-accesibles: http://jorgeatgu.github.io/color-combos/;
 
 /*Primer combo*/
 
-.blackCurrant-fuelYellow__7_85 {
+.txt-blackCurrant-fuelYellow__7_85 {
   color: var(--blackCurrant);
 }
 
-.fuelYellow-blackCurrant__7_85 {
+.bgc-fuelYellow-blackCurrant__7_85 {
   background-color: var(--fuelYellow);
 }
 
 
 /*Segundo combo*/
 
-.bunting-frenchGray__11_16 {
+.txt-bunting-frenchGray__11_16 {
   color: var(--bunting);
 }
 
-.frenchGray-bunting__11_16 {
+.bgc-frenchGray-bunting__11_16 {
   background-color: var(--frenchGray);
 }
 
 
 /*Tercer combo*/
 
-.eclipse-springBud__9_27 {
+.txt-eclipse-springBud__9_27 {
   color: var(--eclipse);
 }
 
-.springBud-eclipse__9_27 {
+.bgc-springBud-eclipse__9_27 {
   background-color: var(--springBud);
 }
 
 
 /*Cuarto combo*/
 
-.nightRider-mint__9 {
+.txt-nightRider-mint__9 {
   color: var(--nightRider);
 }
 
-.nightRider-mint__9 {
+.bgc-nightRider-mint__9 {
   background-color: var(--mint);
 }
 
