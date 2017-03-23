@@ -10,7 +10,31 @@ Astral es un **fraken-work** basado e inspirado **fuertemente** en [bascss](http
 
 Astral se construye con **postCSS**, incluyendo custom properties, custom selectors y nested para indentar los estados. Nada más. No es **tlhİngan Hol**. Solamente es **CSS**.
 
-La nomenclatura que he utilizado para construir Astral se basa en emmet. Las clases siempre van nombradas primero con la propiedad ```margin``` separada con un guión del valor ```top right bottom left```.
+La nomenclatura que he utilizado para construir Astral se basa en emmet. Las clases siempre van nombradas primero con la propiedad ```margin``` y esta separada con un guión del valor ```top right bottom left```.
+
+Los módulos disponibles:
+
+- border-radius
+- border
+- color
+- display
+- flexbox
+- float
+- fonts
+- grid (comentado por defecto)
+- height
+- helper
+- hover
+- letter-spacing
+- margin
+- overflow
+- padding
+- position
+- textalign
+- vertical-align
+- weight
+- width
+
 
 La unidad de medida estandar es el **REM**. Para los módulos de width también he incorporado el *%*, y en el height **vh**.
 
