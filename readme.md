@@ -6,15 +6,15 @@
     A estral u astral (d'o latín DEXTRALE, prenunciata as'tɾal~es'tɾal (AFI)) ye una ferramienta emplegata ta fustiar, picar y treballar a fusta en cheneral, consistent d'una fuella u tozuel de fierro u acero de ripa esmolata enchascata sobre un astil de fusta.
 </blockquote>
 
-Astral es mi pequeño **fraken-work** basado e inspirado **fuertemente** en [bascss](http://basscss.com) y [tachyons](http://tachyons.io).
+Astral es un **fraken-work** basado e inspirado **fuertemente** en [bascss](http://basscss.com) y [tachyons](http://tachyons.io).
 
-Astral se construye con **postCSS**, incluyendo custom properties, custom selectors y nested para indentar los estados. Nada más. No es [tlhİngan Hol](Idioma_klingon). Solamente es **CSS**.
+Astral se construye con **postCSS**, incluyendo custom properties, custom selectors y nested para indentar los estados. Nada más. No es **tlhİngan Hol**. Solamente es **CSS**.
 
-La nomenclatura que he utilizado para construir Astral se basa en emmet. Las clases siempre van nombradas primero con la propiedad ```margin``` separada con un guión del llamemosle diferenciador ```top right bottom left``` y en último lugar el valor 
+La nomenclatura que he utilizado para construir Astral se basa en emmet. Las clases siempre van nombradas primero con la propiedad ```margin``` separada con un guión del valor ```top right bottom left```.
 
 La unidad de medida estandar es el **REM**. Para los módulos de width también he incorporado el *%*, y en el height **vh**.
 
-Las medias con decimales se diferencian a través del doble guión bajo.
+Las unidades con decimales se diferencian a través del doble guión bajo.
 
 ```
 .letter-0__5 {
