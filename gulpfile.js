@@ -2,8 +2,8 @@ var gulp = require('gulp');
 postcss = require('gulp-postcss');
 sourcemaps = require('gulp-sourcemaps');
 atImport = require('postcss-import');
-selector = require('postcss-custom-selectors')
-customProperties = require("postcss-custom-properties")
+selector = require('postcss-custom-selectors');
+customProperties = require("postcss-custom-properties");
 nested = require('postcss-nested');
 reporter = require('postcss-reporter');
 newer = require('gulp-newer');
@@ -18,7 +18,7 @@ gulp.task("browserSync", function() {
     server: {
       baseDir: "./"
     }
-  })
+  });
 });
 
 /* Notificando errores de CSS */
@@ -30,7 +30,7 @@ function errorAlertPost(error) {
   })(error);
   console.log(error.toString());
   this.emit("end");
-};
+}
 
 /* ==========================================================================
    Lanzando postCSS
