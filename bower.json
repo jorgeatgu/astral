@@ -1,0 +1,24 @@
+{
+  "name": "astral",
+  "description": "Franken-work CSS",
+  "main": "dist/css/astral.min.css",
+  "authors": [
+    "Jorge Aznar",
+    "Jesús Ángel Samitier"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "CSS",
+    "design",
+    "postcss",
+    "responsive"
+  ],
+  "homepage": "https://github.com/eckelon/astral",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

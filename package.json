@@ -1,6 +1,6 @@
 {
   "name": "astral",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Franken-work CSS",
   "main": "gulpfile.js",
   "devDependencies": {
