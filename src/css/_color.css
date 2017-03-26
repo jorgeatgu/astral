@@ -32,8 +32,19 @@ Más combos-accesibles: http://jorgeatgu.github.io/color-combos/;
   --eclipse: #642626;
   --nightRider: #431729;
   --mint: #0fe1be;
+  --customText: #fabada;
+  --customBackground: #fabada;
 }
 
+
+
+.custom-c-txt {
+  color: var(--customText);
+}
+
+.custom-c-bgc {
+  background-color: var(--customBackground);
+}
 
 
 /*Primer combo*/
