@@ -1,0 +1,75 @@
+.text-dn {
+  text-decoration: none;
+}
+
+.text-du {
+  text-decoration: underline;
+}
+
+.text-do {
+  text-decoration: overline;
+}
+
+.text-dln {
+  text-decoration: line-through;
+}
+
+@media only screen and (min-width: 30em) {
+
+  .text-dn--s {
+    text-decoration: none;
+  }
+
+  .text-du--s {
+    text-decoration: underline;
+  }
+
+  .text-do--s {
+    text-decoration: overline;
+  }
+
+  .text-dln--s {
+    text-decoration: line-through;
+  }
+
+}
+
+@media only screen and (min-width: 48em) {
+
+  .text-dn--m {
+    text-decoration: none;
+  }
+
+  .text-du--m {
+    text-decoration: underline;
+  }
+
+  .text-do--m {
+    text-decoration: overline;
+  }
+
+  .text-dln--m {
+    text-decoration: line-through;
+  }
+
+}
+
+@media only screen and (min-width: 64em) {
+
+  .text-dn--l {
+    text-decoration: none;
+  }
+
+  .text-du--l {
+    text-decoration: underline;
+  }
+
+  .text-do--l {
+    text-decoration: overline;
+  }
+
+  .text-dln--l {
+    text-decoration: line-through;
+  }
+
+}
