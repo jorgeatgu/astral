@@ -99,6 +99,18 @@ Copia, clona, distribuye y destruye como quieras.
 
 Si te atrae esta manera de construir webs elige [bascss](http://basscss.com) o [tachyons](http://tachyons.io).
 
+# Usar Astral con Bower
+
+Usar Astral en tu proyecto es muy sencillo: simplemente añádelo como dependencia en tu `bower.json` de la siguiente manera:
+
+```
+"dependencies": {
+    "astral": "jorgeatgu/astral#^0.2.1"
+  }
+```
+
+Para comenzar un proyecto web de cero usando astral puedes utilizar [astral-initializer](https://github.com/eckelon/astral-initializer).
+
 # Contribuye
 
 Si crees que falta algo no dudes en hacer un fork y mandar un pull request con lo que creas que hace falta. También puedes abrir una issue.
