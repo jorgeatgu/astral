@@ -3,7 +3,9 @@
   "description": "Franken-work CSS",
   "main": "dist/css/astral.min.css",
   "authors": [
-    "Jorge Aznar",
+    "Jorge Aznar"
+  ],
+  "collaboratos" : [
     "Jesús Ángel Samitier"
   ],
   "license": "MIT",
