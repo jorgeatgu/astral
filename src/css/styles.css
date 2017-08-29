@@ -14,10 +14,7 @@
 @import '_flexbox';
 @import '_float';
 @import '_fonts';
-/*
-Descomenta bajo tu propia responsabilidad
 @import '_grid';
-*/
 @import '_height';
 @import '_helper';
 @import '_hover';
