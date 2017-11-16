@@ -1,43 +1,3 @@
-.h-10 {
-  height: 10%;
-}
-
-.h-20 {
-  height: 20%;
-}
-
-.h-30 {
-  height: 30%;
-}
-
-.h-40 {
-  height: 40%;
-}
-
-.h-50 {
-  height: 50%;
-}
-
-.h-60 {
-  height: 60%;
-}
-
-.h-70 {
-  height: 70%;
-}
-
-.h-80 {
-  height: 80%;
-}
-
-.h-90 {
-  height: 90%;
-}
-
-.h-100 {
-  height: 100%;
-}
-
 .h-10vh {
   height: 10vh;
 }
@@ -84,46 +44,6 @@
 
 
 @media only screen and (min-width: 30em) {
-
-  .h-10--s {
-    height: 10%;
-  }
-
-  .h-20--s {
-    height: 20%;
-  }
-
-  .h-30--s {
-    height: 30%;
-  }
-
-  .h-40--s {
-    height: 40%;
-  }
-
-  .h-50--s {
-    height: 50%;
-  }
-
-  .h-60--s {
-    height: 60%;
-  }
-
-  .h-70--s {
-    height: 70%;
-  }
-
-  .h-80--s {
-    height: 80%;
-  }
-
-  .h-90--s {
-    height: 90%;
-  }
-
-  .h-100--s {
-    height: 100%;
-  }
 
   .h-10vh--s {
     height: 10vh;
@@ -173,46 +93,6 @@
 
 @media only screen and (min-width: 48em) {
 
-  .h-10--m {
-    height: 10%;
-  }
-
-  .h-20--m {
-    height: 20%;
-  }
-
-  .h-30--m {
-    height: 30%;
-  }
-
-  .h-40--m {
-    height: 40%;
-  }
-
-  .h-50--m {
-    height: 50%;
-  }
-
-  .h-60--m {
-    height: 60%;
-  }
-
-  .h-70--m {
-    height: 70%;
-  }
-
-  .h-80--m {
-    height: 80%;
-  }
-
-  .h-90--m {
-    height: 90%;
-  }
-
-  .h-100--m {
-    height: 100%;
-  }
-
   .h-10vh--m {
     height: 10vh;
   }
@@ -260,47 +140,6 @@
 }
 
 @media only screen and (min-width: 64em) {
-
-
-  .h-10--l {
-    height: 10%;
-  }
-
-  .h-20--l {
-    height: 20%;
-  }
-
-  .h-30--l {
-    height: 30%;
-  }
-
-  .h-40--l {
-    height: 40%;
-  }
-
-  .h-50--l {
-    height: 50%;
-  }
-
-  .h-60--l {
-    height: 60%;
-  }
-
-  .h-70--l {
-    height: 70%;
-  }
-
-  .h-80--l {
-    height: 80%;
-  }
-
-  .h-90--l {
-    height: 90%;
-  }
-
-  .h-100--l {
-    height: 100%;
-  }
 
   .h-10vh--l {
     height: 10vh;

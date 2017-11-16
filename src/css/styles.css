@@ -1,32 +1,20 @@
 /*
 
-  Astral 0.2.1 por Jorge Aznar
+  Astral 1.0.0 por Jorge Aznar
   http://github.com/jorgeatgu/astral
   http://jorgeatgu.com
 
 */
 
 @import '_reset';
-@import '_border-radius';
-@import '_border';
 @import '_color';
 @import '_display';
-@import '_flexbox';
-@import '_float';
 @import '_fonts';
-@import '_grid';
 @import '_height';
-@import '_helper';
-@import '_hover';
-@import '_line-height';
-@import '_list';
 @import '_letter-spacing';
 @import '_margin';
 @import '_overflow';
 @import '_padding';
 @import '_position';
-@import '_textalign';
-@import '_text-decoration';
-@import '_vertical-align';
 @import '_weight';
 @import '_width';
