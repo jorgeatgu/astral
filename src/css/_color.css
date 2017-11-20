@@ -44,8 +44,7 @@ Más combos-accesibles: http://jorgeatgu.github.io/color-combos/;
   background-color: var(--customBackground);
 }
 
-
-/*Primer combo*/
+/* Primer combo */
 
 .txt-blackCurrant-fuelYellow__7_85 {
   color: var(--blackCurrant);
@@ -55,8 +54,7 @@ Más combos-accesibles: http://jorgeatgu.github.io/color-combos/;
   background-color: var(--fuelYellow);
 }
 
-
-/*Segundo combo*/
+/* Segundo combo */
 
 .txt-bunting-frenchGray__11_16 {
   color: var(--bunting);
@@ -66,8 +64,7 @@ Más combos-accesibles: http://jorgeatgu.github.io/color-combos/;
   background-color: var(--frenchGray);
 }
 
-
-/*Tercer combo*/
+/* Tercer combo */
 
 .txt-eclipse-springBud__9_27 {
   color: var(--eclipse);
@@ -77,8 +74,7 @@ Más combos-accesibles: http://jorgeatgu.github.io/color-combos/;
   background-color: var(--springBud);
 }
 
-
-/*Cuarto combo*/
+/* Cuarto combo */
 
 .txt-nightRider-mint__9 {
   color: var(--nightRider);
@@ -88,8 +84,7 @@ Más combos-accesibles: http://jorgeatgu.github.io/color-combos/;
   background-color: var(--mint);
 }
 
-
-/*FIN COMBOS*/
+/* FIN COMBOS */
 
 .color-black {
   color: var(--black);
