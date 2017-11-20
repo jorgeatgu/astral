@@ -14,26 +14,16 @@ La nomenclatura que he utilizado para construir Astral se basa en emmet. Las cla
 
 Los módulos disponibles:
 
-- border-radius
-- border
 - color
 - display
-- flexbox
-- float
 - fonts
-- grid (comentado por defecto)
 - height
-- helper
-- hover
 - letter-spacing
 - margin
 - overflow
 - padding
 - position
-- textalign
-- vertical-align
 - weight
-- width
 
 
 La unidad de medida estandar es el **REM**. Para los módulos de width también he incorporado el *%*, y en el height **vh**.
