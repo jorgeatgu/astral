@@ -1,188 +1,43 @@
-.h-10vh {
-  height: 10vh;
-}
-
-.h-20vh {
-  height: 20vh;
-}
-
-.h-30vh {
-  height: 30vh;
-}
-
-.h-40vh {
-  height: 40vh;
-}
-
-.h-50vh {
-  height: 50vh;
-}
-
-.h-60vh {
-  height: 60vh;
-}
-
-.h-70vh {
-  height: 70vh;
-}
-
-.h-80vh {
-  height: 80vh;
-}
-
-.h-90vh {
-  height: 90vh;
-}
-
-.h-100vh {
-  height: 100vh;
+.h-100p {
+    height: 100%;
 }
 
 .mih-100vh {
   min-height: 100vh;
 }
 
-
 @media only screen and (min-width: 30em) {
 
-  .h-10vh--s {
-    height: 10vh;
-  }
+    .h-100p--s {
+        height: 100%;
+    }
 
-  .h-20vh--s {
-    height: 20vh;
-  }
-
-  .h-30vh--s {
-    height: 30vh;
-  }
-
-  .h-40vh--s {
-    height: 40vh;
-  }
-
-  .h-50vh--s {
-    height: 50vh;
-  }
-
-  .h-60vh--s {
-    height: 60vh;
-  }
-
-  .h-70vh--s {
-    height: 70vh;
-  }
-
-  .h-80vh--s {
-    height: 80vh;
-  }
-
-  .h-90vh--s {
-    height: 90vh;
-  }
-
-  .h-100vh--s {
-    height: 100vh;
-  }
-
-  .mih-100vh--s {
-    min-height: 100vh;
-  }
+    .mih-100vh--s {
+      min-height: 100vh;
+    }
 
 }
 
 @media only screen and (min-width: 48em) {
 
-  .h-10vh--m {
-    height: 10vh;
-  }
+    .h-100p--m {
+        height: 100%;
+    }
 
-  .h-20vh--m {
-    height: 20vh;
-  }
-
-  .h-30vh--m {
-    height: 30vh;
-  }
-
-  .h-40vh--m {
-    height: 40vh;
-  }
-
-  .h-50vh--m {
-    height: 50vh;
-  }
-
-  .h-60vh--m {
-    height: 60vh;
-  }
-
-  .h-70vh--m {
-    height: 70vh;
-  }
-
-  .h-80vh--m {
-    height: 80vh;
-  }
-
-  .h-90vh--m {
-    height: 90vh;
-  }
-
-  .h-100vh--m {
-    height: 100vh;
-  }
-
-  .mih-100vh--m {
-    min-height: 100vh;
-  }
+    .mih-100vh--m {
+      min-height: 100vh;
+    }
 
 }
 
 @media only screen and (min-width: 64em) {
 
-  .h-10vh--l {
-    height: 10vh;
-  }
+    .h-100p--l {
+        height: 100%;
+    }
 
-  .h-20vh--l {
-    height: 20vh;
-  }
-
-  .h-30vh--l {
-    height: 30vh;
-  }
-
-  .h-40vh--l {
-    height: 40vh;
-  }
-
-  .h-50vh--l {
-    height: 50vh;
-  }
-
-  .h-60vh--l {
-    height: 60vh;
-  }
-
-  .h-70vh--l {
-    height: 70vh;
-  }
-
-  .h-80vh--l {
-    height: 80vh;
-  }
-
-  .h-90vh--l {
-    height: 90vh;
-  }
-
-  .h-100vh--l {
-    height: 100vh;
-  }
-
-  .mih-100vh--l {
-    min-height: 100vh;
-  }
+    .mih-100vh--l {
+      min-height: 100vh;
+    }
 
 }
